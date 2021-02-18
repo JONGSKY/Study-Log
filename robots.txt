@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://JONGSKY.github.io/Study-Log/sitemap.xml
